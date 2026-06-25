@@ -81,7 +81,7 @@ body {
 
 /* Hero section */
 .hero {
-    background: linear-gradient(rgba(9, 84, 201, 0.95), rgba(9, 84, 201, 0.95)), url('https://upload.wikimedia.org/wikipedia/commons/e/ec/Delhi_Metro_Yellow_Line.jpg');
+    background: linear-gradient(rgba(9, 84, 201, 0.95), rgba(9, 84, 201, 0.95)), url('https://images.unsplash.com/photo-1560709659-540623123123?q=80&w=1920&auto=format&fit=crop');
     height: 400px;
     display: flex;
     align-items: center;
@@ -720,7 +720,7 @@ body {
 
 /* Metro Map Page Styles */
 .map-hero {
-    background: linear-gradient(rgba(9, 84, 201, 0.9), rgba(9, 84, 201, 0.95)), url('https://upload.wikimedia.org/wikipedia/commons/e/ec/Delhi_Metro_Yellow_Line.jpg');
+    background: linear-gradient(rgba(9, 84, 201, 0.9), rgba(9, 84, 201, 0.95)), url('https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=1920&auto=format&fit=crop');
     background-size: cover;
     background-position: center;
     height: 250px;
