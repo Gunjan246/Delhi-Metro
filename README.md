@@ -16,6 +16,8 @@ Unlike the initial version where the metro network was hardcoded, the applicatio
 
 ---
 
+
+
 ## Features
 
 - Shortest path calculation using Dijkstra's Algorithm.
@@ -28,6 +30,8 @@ Unlike the initial version where the metro network was hardcoded, the applicatio
 - Modular project structure for improved maintainability.
 
 ---
+
+
 
 ## How It Works
 
@@ -42,7 +46,11 @@ When the application starts, it loads all station connections from `metroData.js
 
 ---
 
+
+
 ## Algorithm
+
+
 
 ### Dijkstra's Algorithm
 
@@ -59,25 +67,27 @@ This guarantees the minimum-distance path because all edge weights are positive.
 
 ---
 
+
+
 ## Fare Calculation
 
 The fare is calculated using the following formula:
 
 ```
-
-```
-
-```
 Total Fare = Base Fare + (Per Km Charge × Total Distance)
 ```
 
+
+
 ### Pricing Model
 
--  Base Fare: ₹10 
--  Additional Charge: ₹2 per kilometer 
--  Maximum Fare: ₹60 
+- Base Fare: ₹10 
+- Additional Charge: ₹2 per kilometer 
+- Maximum Fare: ₹60
 
 ---
+
+
 
 ## Tech Stack
 
@@ -93,11 +103,9 @@ Total Fare = Base Fare + (Per Km Charge × Total Distance)
 
 ---
 
+
+
 ## Sample Output
-
-```
-
-```
 
 ```
 Source: Rajiv Chowk
@@ -117,11 +125,9 @@ Estimated Fare: ₹30
 
 ---
 
+
+
 ## Project Structure
-
-```
-
-```
 
 ```
 Delhi-Metro-App/
@@ -149,24 +155,28 @@ Delhi-Metro-App/
 
 ---
 
+
+
 ## Future Improvements
 
--  Replace the custom fare model with the official DMRC fare slab system. 
--  Fetch metro data from a backend API instead of a local JSON file. 
--  Add live train timings and interchange information. 
--  Display the route on an interactive metro map. 
--  Support route optimization based on travel time in addition to distance. 
+- Replace the custom fare model with the official DMRC fare slab system. 
+- Fetch metro data from a backend API instead of a local JSON file. 
+- Add live train timings and interchange information. 
+- Display the route on an interactive metro map. 
+- Support route optimization based on travel time in addition to distance.
 
 ---
 
+
+
 ## Highlights
 
--  Models the Delhi Metro as a weighted graph using an adjacency list. 
--  Implements Dijkstra's Algorithm for efficient shortest-path computation. 
--  Loads metro network data dynamically from an external JSON file. 
--  Separates data from business logic for better maintainability. 
--  Provides distance, estimated fare, and metro line details for every journey. 
--  Originally prototyped in C++ and adapted into a web application using HTML, CSS, and JavaScript. 
+- Models the Delhi Metro as a weighted graph using an adjacency list. 
+- Implements Dijkstra's Algorithm for efficient shortest-path computation. 
+- Loads metro network data dynamically from an external JSON file. 
+- Separates data from business logic for better maintainability. 
+- Provides distance, estimated fare, and metro line details for every journey. 
+- Originally prototyped in C++ and adapted into a web application using HTML, CSS, and JavaScript.
 
 ---
 
