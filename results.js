@@ -1,5 +1,7 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async function() {
     try {
+        await metro.loadGraph();
+
         console.log("Results page loaded");
         
         // Get URL parameters

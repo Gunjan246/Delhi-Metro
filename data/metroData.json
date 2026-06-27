@@ -1,0 +1,1396 @@
+{
+  "edges": [
+    {
+      "from": "Dwarka Sector 21",
+      "to": "Dwarka Sector 8",
+      "distance": 3,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 8",
+      "to": "Dwarka Sector 9",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 9",
+      "to": "Dwarka Sector 10",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 10",
+      "to": "Dwarka Sector 11",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 11",
+      "to": "Dwarka Sector 12",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 12",
+      "to": "Dwarka Sector 13",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 13",
+      "to": "Dwarka Sector 14",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Sector 14",
+      "to": "Dwarka",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka",
+      "to": "Dwarka Mor",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Dwarka Mor",
+      "to": "Nawada",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Nawada",
+      "to": "Uttam Nagar West",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Uttam Nagar West",
+      "to": "Uttam Nagar East",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Uttam Nagar East",
+      "to": "Janakpuri West",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Janakpuri West",
+      "to": "Janakpuri East",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Janakpuri East",
+      "to": "Tilak Nagar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Tilak Nagar",
+      "to": "Subhash Nagar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Subhash Nagar",
+      "to": "Tagore Garden",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Tagore Garden",
+      "to": "Rajouri Garden",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Rajouri Garden",
+      "to": "Ramesh Nagar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Ramesh Nagar",
+      "to": "Moti Nagar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Moti Nagar",
+      "to": "Kirti Nagar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Kirti Nagar",
+      "to": "Shadipur",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Shadipur",
+      "to": "Patel Nagar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Patel Nagar",
+      "to": "Rajendra Place",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Rajendra Place",
+      "to": "Karol Bagh",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Karol Bagh",
+      "to": "Jhandewalan",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Jhandewalan",
+      "to": "Ramakrishna Ashram Marg",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Ramakrishna Ashram Marg",
+      "to": "Rajiv Chowk",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Rajiv Chowk",
+      "to": "Barakhamba Road",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Barakhamba Road",
+      "to": "Mandi House",
+      "distance": 1,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Mandi House",
+      "to": "Pragati Maidan",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Pragati Maidan",
+      "to": "Indraprastha",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Indraprastha",
+      "to": "Yamuna Bank",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Yamuna Bank",
+      "to": "Akshardham",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Akshardham",
+      "to": "Mayur Vihar Phase 1",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Mayur Vihar Phase 1",
+      "to": "Mayur Vihar Extension",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Mayur Vihar Extension",
+      "to": "New Ashok Nagar",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "New Ashok Nagar",
+      "to": "Noida Sector 15",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Noida Sector 15",
+      "to": "Noida Sector 16",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Noida Sector 16",
+      "to": "Noida Sector 18",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Noida Sector 18",
+      "to": "Botanical Garden",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Botanical Garden",
+      "to": "Golf Course",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Golf Course",
+      "to": "Noida City Centre",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Noida City Centre",
+      "to": "Noida Sector 62",
+      "distance": 3,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Yamuna Bank",
+      "to": "Laxmi Nagar",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Laxmi Nagar",
+      "to": "Nirman Vihar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Nirman Vihar",
+      "to": "Preet Vihar",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Preet Vihar",
+      "to": "Karkarduma",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Karkarduma",
+      "to": "Anand Vihar ISBT",
+      "distance": 2,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Anand Vihar ISBT",
+      "to": "Kaushambi",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Kaushambi",
+      "to": "Vaishali",
+      "distance": 1.5,
+      "line": "Blue Line"
+    },
+    {
+      "from": "Samaypur Badli",
+      "to": "Rohini Sector 18, 19",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Rohini Sector 18, 19",
+      "to": "Haiderpur Badli Mor",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Haiderpur Badli Mor",
+      "to": "Jahangirpuri",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Jahangirpuri",
+      "to": "Adarsh Nagar",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Adarsh Nagar",
+      "to": "Azadpur",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Azadpur",
+      "to": "Model Town",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Model Town",
+      "to": "GTB Nagar",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "GTB Nagar",
+      "to": "Vishwa Vidyalaya",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Vishwa Vidyalaya",
+      "to": "Vidhan Sabha",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Vidhan Sabha",
+      "to": "Civil Lines",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Civil Lines",
+      "to": "Kashmere Gate",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Kashmere Gate",
+      "to": "Chandni Chowk",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Chandni Chowk",
+      "to": "Chawri Bazar",
+      "distance": 1.5,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Chawri Bazar",
+      "to": "New Delhi",
+      "distance": 1.5,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "New Delhi",
+      "to": "Rajiv Chowk",
+      "distance": 1,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Rajiv Chowk",
+      "to": "Patel Chowk",
+      "distance": 1.5,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Patel Chowk",
+      "to": "Central Secretariat",
+      "distance": 1,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Central Secretariat",
+      "to": "Udyog Bhawan",
+      "distance": 1,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Udyog Bhawan",
+      "to": "Lok Kalyan Marg",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Lok Kalyan Marg",
+      "to": "Jor Bagh",
+      "distance": 1.5,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Jor Bagh",
+      "to": "INA",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "INA",
+      "to": "AIIMS",
+      "distance": 1.5,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "AIIMS",
+      "to": "Green Park",
+      "distance": 1.5,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Green Park",
+      "to": "Hauz Khas",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Hauz Khas",
+      "to": "Malviya Nagar",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Malviya Nagar",
+      "to": "Saket",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Saket",
+      "to": "Qutub Minar",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Qutub Minar",
+      "to": "Chhattarpur",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Chhattarpur",
+      "to": "Sultanpur",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Sultanpur",
+      "to": "Ghitorni",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Ghitorni",
+      "to": "Arjan Garh",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Arjan Garh",
+      "to": "Guru Dronacharya",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Guru Dronacharya",
+      "to": "Sikanderpur",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Sikanderpur",
+      "to": "MG Road",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "MG Road",
+      "to": "IFFCO Chowk",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "IFFCO Chowk",
+      "to": "Huda City Centre",
+      "distance": 2,
+      "line": "Yellow Line"
+    },
+    {
+      "from": "Rithala",
+      "to": "Rohini West",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Rohini West",
+      "to": "Rohini East",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Rohini East",
+      "to": "Pitampura",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Pitampura",
+      "to": "Kohat Enclave",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Kohat Enclave",
+      "to": "Netaji Subhash Place",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Netaji Subhash Place",
+      "to": "Keshav Puram",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Keshav Puram",
+      "to": "Kanhaiya Nagar",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Kanhaiya Nagar",
+      "to": "Inderlok",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Inderlok",
+      "to": "Shastri Nagar",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Shastri Nagar",
+      "to": "Pratap Nagar",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Pratap Nagar",
+      "to": "Pulbangash",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Pulbangash",
+      "to": "Tis Hazari",
+      "distance": 1,
+      "line": "Red Line"
+    },
+    {
+      "from": "Tis Hazari",
+      "to": "Kashmere Gate",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Kashmere Gate",
+      "to": "Shastri Park",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Shastri Park",
+      "to": "Seelampur",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Seelampur",
+      "to": "Welcome",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Welcome",
+      "to": "Shahdara",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Shahdara",
+      "to": "Mansarovar Park",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Mansarovar Park",
+      "to": "Jhilmil",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Jhilmil",
+      "to": "Dilshad Garden",
+      "distance": 1.5,
+      "line": "Red Line"
+    },
+    {
+      "from": "Dilshad Garden",
+      "to": "Shaheed Nagar",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Shaheed Nagar",
+      "to": "Raj Bagh",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Raj Bagh",
+      "to": "Rajendra Nagar",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Rajendra Nagar",
+      "to": "Shyam Park",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Shyam Park",
+      "to": "Mohan Nagar",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Mohan Nagar",
+      "to": "Arthala",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Arthala",
+      "to": "Hindon River",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Hindon River",
+      "to": "Shaheed Sthal",
+      "distance": 2,
+      "line": "Red Line"
+    },
+    {
+      "from": "Inderlok",
+      "to": "Ashok Park Main",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Ashok Park Main",
+      "to": "Punjabi Bagh",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Punjabi Bagh",
+      "to": "Shivaji Park",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Shivaji Park",
+      "to": "Madipur",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Madipur",
+      "to": "Paschim Vihar East",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Paschim Vihar East",
+      "to": "Paschim Vihar West",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Paschim Vihar West",
+      "to": "Peera Garhi",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Peera Garhi",
+      "to": "Udyog Nagar",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Udyog Nagar",
+      "to": "Surajmal Stadium",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Surajmal Stadium",
+      "to": "Nangloi",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Nangloi",
+      "to": "Nangloi Railway Station",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Nangloi Railway Station",
+      "to": "Rajdhani Park",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Rajdhani Park",
+      "to": "Mundka",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Mundka",
+      "to": "Mundka Industrial Area",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Mundka Industrial Area",
+      "to": "Ghevra",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Ghevra",
+      "to": "Tikri Kalan",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Tikri Kalan",
+      "to": "Tikri Border",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Tikri Border",
+      "to": "Pandit Shree Ram Sharma",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Pandit Shree Ram Sharma",
+      "to": "Bahadurgarh City",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Bahadurgarh City",
+      "to": "Brigadier Hoshiar Singh",
+      "distance": 2,
+      "line": "Green Line"
+    },
+    {
+      "from": "Ashok Park Main",
+      "to": "Satguru Ram Singh Marg",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Satguru Ram Singh Marg",
+      "to": "Kirti Nagar",
+      "distance": 1.5,
+      "line": "Green Line"
+    },
+    {
+      "from": "Kashmere Gate",
+      "to": "Lal Quila",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Lal Quila",
+      "to": "Jama Masjid",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Jama Masjid",
+      "to": "Delhi Gate",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Delhi Gate",
+      "to": "ITO",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "ITO",
+      "to": "Mandi House",
+      "distance": 1,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Mandi House",
+      "to": "Janpath",
+      "distance": 1,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Janpath",
+      "to": "Central Secretariat",
+      "distance": 1,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Central Secretariat",
+      "to": "Khan Market",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Khan Market",
+      "to": "JLN Stadium",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "JLN Stadium",
+      "to": "Jangpura",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Jangpura",
+      "to": "Lajpat Nagar",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Lajpat Nagar",
+      "to": "Moolchand",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Moolchand",
+      "to": "Kailash Colony",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Kailash Colony",
+      "to": "Nehru Place",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Nehru Place",
+      "to": "Kalkaji Mandir",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Kalkaji Mandir",
+      "to": "Govind Puri",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Govind Puri",
+      "to": "Harkesh Nagar Okhla",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Harkesh Nagar Okhla",
+      "to": "Jasola Apollo",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Jasola Apollo",
+      "to": "Sarita Vihar",
+      "distance": 1.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Sarita Vihar",
+      "to": "Mohan Estate",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Mohan Estate",
+      "to": "Tughlakabad",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Tughlakabad",
+      "to": "Badarpur",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Badarpur",
+      "to": "Escorts Mujesar",
+      "distance": 2.5,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Escorts Mujesar",
+      "to": "Bata Chowk",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Bata Chowk",
+      "to": "Neelam Chowk Ajronda",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Neelam Chowk Ajronda",
+      "to": "Old Faridabad",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Old Faridabad",
+      "to": "Raja Nahar Singh",
+      "distance": 2,
+      "line": "Violet Line"
+    },
+    {
+      "from": "Majlis Park",
+      "to": "Azadpur",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Azadpur",
+      "to": "Shalimar Bagh",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Shalimar Bagh",
+      "to": "Netaji Subhash Place",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Netaji Subhash Place",
+      "to": "Shakurpur",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Shakurpur",
+      "to": "Punjabi Bagh West",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Punjabi Bagh West",
+      "to": "ESI Hospital",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "ESI Hospital",
+      "to": "Rajouri Garden",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Rajouri Garden",
+      "to": "Maya Puri",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Maya Puri",
+      "to": "Naraina Vihar",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Naraina Vihar",
+      "to": "Delhi Cantt",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Delhi Cantt",
+      "to": "Durgabai Deshmukh South Campus",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Durgabai Deshmukh South Campus",
+      "to": "Sir Vishweshwaraiah Moti Bagh",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Sir Vishweshwaraiah Moti Bagh",
+      "to": "Bhikaji Cama Place",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Bhikaji Cama Place",
+      "to": "Sarojini Nagar",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Sarojini Nagar",
+      "to": "INA",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "INA",
+      "to": "South Extension",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "South Extension",
+      "to": "Lajpat Nagar",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Lajpat Nagar",
+      "to": "Vinobapuri",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Vinobapuri",
+      "to": "Ashram",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Ashram",
+      "to": "Hazrat Nizamuddin",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Hazrat Nizamuddin",
+      "to": "Mayur Vihar Phase 1",
+      "distance": 2.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Mayur Vihar Phase 1",
+      "to": "Mayur Vihar Pocket 1",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Mayur Vihar Pocket 1",
+      "to": "Trilokpuri Sanjay Lake",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Trilokpuri Sanjay Lake",
+      "to": "East Vinod Nagar",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "East Vinod Nagar",
+      "to": "IP Extension",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "IP Extension",
+      "to": "Anand Vihar",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Anand Vihar",
+      "to": "Karkarduma",
+      "distance": 2,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Karkarduma",
+      "to": "Karkarduma Court",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Karkarduma Court",
+      "to": "Krishna Nagar",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Krishna Nagar",
+      "to": "East Azad Nagar",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "East Azad Nagar",
+      "to": "Welcome",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Welcome",
+      "to": "Jaffrabad",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Jaffrabad",
+      "to": "Maujpur",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Maujpur",
+      "to": "Gokulpuri",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Gokulpuri",
+      "to": "Johri Enclave",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Johri Enclave",
+      "to": "Shiv Vihar",
+      "distance": 1.5,
+      "line": "Pink Line"
+    },
+    {
+      "from": "Janakpuri West",
+      "to": "Dabri Mor",
+      "distance": 2,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Dabri Mor",
+      "to": "Dashrath Puri",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Dashrath Puri",
+      "to": "Palam",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Palam",
+      "to": "Sadar Bazar Cantonment",
+      "distance": 2,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Sadar Bazar Cantonment",
+      "to": "Terminal 1 IGI Airport",
+      "distance": 2.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Terminal 1 IGI Airport",
+      "to": "Shankar Vihar",
+      "distance": 2,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Shankar Vihar",
+      "to": "Vasant Vihar",
+      "distance": 2,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Vasant Vihar",
+      "to": "Munirka",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Munirka",
+      "to": "RK Puram",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "RK Puram",
+      "to": "IIT",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "IIT",
+      "to": "Hauz Khas",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Hauz Khas",
+      "to": "Panchsheel Park",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Panchsheel Park",
+      "to": "Chirag Delhi",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Chirag Delhi",
+      "to": "Greater Kailash",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Greater Kailash",
+      "to": "Nehru Enclave",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Nehru Enclave",
+      "to": "Kalkaji Mandir",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Kalkaji Mandir",
+      "to": "Okhla NSIC",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Okhla NSIC",
+      "to": "Sukhdev Vihar",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Sukhdev Vihar",
+      "to": "Jamia Millia Islamia",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Jamia Millia Islamia",
+      "to": "Okhla Vihar",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Okhla Vihar",
+      "to": "Jasola Vihar Shaheen Bagh",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Jasola Vihar Shaheen Bagh",
+      "to": "Kalindi Kunj",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Kalindi Kunj",
+      "to": "Okhla Bird Sanctuary",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "Okhla Bird Sanctuary",
+      "to": "Botanical Garden",
+      "distance": 1.5,
+      "line": "Magenta Line"
+    },
+    {
+      "from": "New Delhi",
+      "to": "Shivaji Stadium",
+      "distance": 2,
+      "line": "Orange Line"
+    },
+    {
+      "from": "Shivaji Stadium",
+      "to": "Dhaula Kuan",
+      "distance": 5,
+      "line": "Orange Line"
+    },
+    {
+      "from": "Dhaula Kuan",
+      "to": "Delhi Aerocity",
+      "distance": 4,
+      "line": "Orange Line"
+    },
+    {
+      "from": "Delhi Aerocity",
+      "to": "IGI Airport",
+      "distance": 3,
+      "line": "Orange Line"
+    },
+    {
+      "from": "IGI Airport",
+      "to": "Dwarka Sector 21",
+      "distance": 4,
+      "line": "Orange Line"
+    },
+    {
+      "from": "Dwarka",
+      "to": "Nangli",
+      "distance": 2,
+      "line": "Grey Line"
+    },
+    {
+      "from": "Nangli",
+      "to": "Najafgarh",
+      "distance": 2,
+      "line": "Grey Line"
+    },
+    {
+      "from": "Najafgarh",
+      "to": "Dhansa Bus Stand",
+      "distance": 2,
+      "line": "Grey Line"
+    }
+  ]
+}
